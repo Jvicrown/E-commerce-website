@@ -1,0 +1,56 @@
+                          <h4>Women's Clothing </h4>
+                              <ul>
+                                    <li><a href="#">Dresses</a></li>
+                                    <li><a href="#">Tags & Tees</a></li>
+                                    <li><a href="#">Jacket & Coats</a></li>
+                                    <li><a href="#">Pants & Capris</a></li>
+                                    <li><a href="#">Sweaters</a></li>
+                                    <li><a href="#">Costumes</a></li>
+                                    <li><a href="#">Hoodies & Sweatshirts</a></li>
+                                    <li><a href="#">Pijamas & Robes</a></li>
+                                    <li><a href="#">Shorts</a></li>
+                                    <li><a href="#">Swimwears</a></li>
+                                </ul>
+
+
+
+                                <h4>Jeweries</h4>
+                                <ul>
+                                    <li><a href="#">Accessories</a></li>
+                                    <li><a href="#">Bags & Purses</a></li>
+                                    <li><a href="#">Necklaces</a></li>
+                                    <li><a href="#">Rings</a></li>
+                                    <li><a href="#">Earrings</a></li>
+                                    <li><a href="#">Bracelets</a></li>
+                                    <li><a href="#">Bofy Jeweries</a></li>
+                                </ul>
+
+                                <h4>Beauty</h4>
+                                <ul>
+                                    <li><a href="#">Bath Accessories</a></li>
+                                    <li><a href="#">Makeup & Cusmetics</a></li>
+                                    <li><a href="#">Skin Care</a></li>
+                                    <li><a href="#">Hair Care</a></li>
+                                    <li><a href="#">Essential Oils</a></li>
+                                    <li><a href="#">Fragrance</a></li>
+                                    <li><a href="#">Soaps & Bath</a></li>
+                                    <li><a href="#">Bombs</a></li>
+                                    <li><a href="#">Face Masks & Coverings</a></li>
+                                    <li><a href="#">Spa kits & Gifts</a></li>
+                                </ul>
+
+                                <h4>Top Brands</h4>
+                              <ul class="woman-brands">
+                                  <li><a href="#">Nike</a></li>
+                                  <li><a href="#">Hermes</a></li>
+                                  <li><a href="#">Gucci</a></li>
+                                  <li><a href="#">Zalando</a></li>
+                                  <li><a href="#">Tiffany & Co.</a></li>
+                                  <li><a href="#">Zara</a></li>
+                                  <li><a href="#">H&M</a></li>
+                                  <li><a href="#">Cartier</a></li>
+                                  <li><a href="#">Chanel</a></li>
+                                  <li><a href="#">Hurley</a></li>
+                              </ul>
+
+                              <a href="#" class="view-all">View all brands <i class="ri-arrow-right-line"></i></a>
